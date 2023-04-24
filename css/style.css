@@ -1,0 +1,28 @@
+body {
+ 
+}
+header {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+nav {
+    display: inline-block;
+    width: 73%;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+ul {
+    list-style: none;
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+}
+.row {
+    display:flex; 
+}
